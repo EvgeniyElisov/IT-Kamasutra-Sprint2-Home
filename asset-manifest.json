@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IT-Kamasutra-Sprint2-Home/static/css/main.dcf3e5b0.css",
+    "main.js": "/IT-Kamasutra-Sprint2-Home/static/js/main.664081f3.js",
+    "static/js/787.66cb4309.chunk.js": "/IT-Kamasutra-Sprint2-Home/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/IT-Kamasutra-Sprint2-Home/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/IT-Kamasutra-Sprint2-Home/index.html",
+    "main.dcf3e5b0.css.map": "/IT-Kamasutra-Sprint2-Home/static/css/main.dcf3e5b0.css.map",
+    "main.664081f3.js.map": "/IT-Kamasutra-Sprint2-Home/static/js/main.664081f3.js.map",
+    "787.66cb4309.chunk.js.map": "/IT-Kamasutra-Sprint2-Home/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf3e5b0.css",
+    "static/js/main.664081f3.js"
+  ]
+}
